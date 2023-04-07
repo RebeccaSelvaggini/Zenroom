@@ -16,6 +16,7 @@
 --GNU Affero General Public License v3.0
 --If not, see http://www.gnu.org/licenses/agpl.txt
 --
+--
 --]]
 
 local bbs = {}
